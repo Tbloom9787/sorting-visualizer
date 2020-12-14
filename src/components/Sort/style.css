@@ -1,0 +1,17 @@
+.Sort {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    width: 960px;
+    min-height: 400px;
+    height: 50vh;
+    background-color: blue;
+}
+
+.Sort div {
+    margin-right: 0.5rem;
+}
+
+.Sort div:last-child {
+    margin: 0;
+}

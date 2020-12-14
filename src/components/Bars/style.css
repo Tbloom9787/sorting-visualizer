@@ -1,0 +1,37 @@
+.Bars {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    transition: 125ms ease-in-out;
+    background-color: red;
+    color: black;
+}
+
+.Bars__Text {
+    margin: 0 auto 0.25rem;
+}
+
+.Bars_sorted {
+    background-color: pink;
+}
+
+.Bars_state_A {
+    background-color: orange;
+}
+
+.Bars_state_B {
+    background-color: green;
+}
+
+.Bars_state_C {
+    background-color: red;
+}
+
+.Bars_state_D {
+    background-color: blue;
+}
+
+
+
+
+
