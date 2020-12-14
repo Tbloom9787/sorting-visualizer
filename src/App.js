@@ -4,7 +4,7 @@ import Sort from './components/Sort/';
 
 class App extends Component {
   state = {
-    numbers: [9, 7, 13, 2, 5, 6, 8, 1],
+    numbers: [4, 12, 3, 5, 8, 2, 8, 9, 3],
     max_num: 0,
     comparing: [],
     compared: [],

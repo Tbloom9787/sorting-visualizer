@@ -29,7 +29,7 @@ const Bars = ({
     }
 
 
-    let barStyle = { ...style, width: '${width}%', height: '${height}%'};
+    let barStyle = { ...style, width: `${width}%`, height: `${height}%`};
 
     if (state_A || state_B || state_C || state_D) {
         barStyle['marginLeft'] = '${0.3 * width}%';

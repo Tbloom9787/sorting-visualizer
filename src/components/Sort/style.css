@@ -2,10 +2,10 @@
     display: flex;
     flex-direction: row;
     align-items: flex-end;
-    width: 960px;
-    min-height: 400px;
+    width: 100%;
+    min-height: 500px;
     height: 50vh;
-    background-color: blue;
+    background-color: lightskyblue;
 }
 
 .Sort div {
